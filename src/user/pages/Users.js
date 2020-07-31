@@ -8,7 +8,7 @@ const Users = () => {
       id: 'u1',
       name: 'Alex Galev',
       image:
-        'https://nebulartribe.com/wp-content/uploads/2020/07/PilotCoCoPilot-scaled.jpg',
+        'https://nebulartribe.com/wp-content/uploads/2020/07/OfficeWorking-scaled.jpg',
       places: 3
     }
   ];
